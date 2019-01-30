@@ -1,0 +1,2 @@
+example 2019/01/30 14:50:56 loggerBasics.go:14: This is a regular message.
+example 2019/01/30 14:50:56 loggerBasics.go:15: This is a fatal error.
